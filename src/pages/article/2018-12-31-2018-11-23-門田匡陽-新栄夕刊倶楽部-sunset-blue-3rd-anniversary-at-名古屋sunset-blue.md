@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: article
 title: '2018-11-23: 門田匡陽 - 新栄夕刊倶楽部 sunset BLUE 3rd Anniversary at 名古屋sunset BLUE'
 date: 2018-12-31T08:12:53.091Z
 description: 門田匡陽 - 新栄夕刊倶楽部 sunset BLUE 3rd Anniversary at 名古屋sunset BLUE

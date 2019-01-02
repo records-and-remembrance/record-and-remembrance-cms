@@ -19,11 +19,11 @@ tags:
   * Soundcloud: [Masaaki Monden](https://soundcloud.com/masaaki-monden)
   * Youtube: [Poet typeM - YouTube](http://www.youtube.com/user/PoettypeM)
   * Instagram: [@ptm_monandstaff](https://www.instagram.com/ptm_monandstaff/)
-* [ライブ一覧](http://monden-info.hatenablog.com/entry/live%3APtM)
+* [ライブ一覧](/articles/live%3APtM)
 
 ## メンバー
 
-* [門田匡陽](http://monden-info.hatenablog.com/entry/person:mmonden) (Vo./Cho./Gt./Ba./Synth./Program/etc.)
+* [門田匡陽](/articles/person:mmonden) (Vo./Cho./Gt./Ba./Synth./Program/etc.)
 
 ### サポートメンバー
 
@@ -46,7 +46,7 @@ tags:
 
 ※I Will Say Good Byeのサポート。
 
-2014年頃から、サポートは楢原英介、宇野剛史、水野雅昭の3名が担当することが多い。[関連人物](http://monden-info.hatenablog.com/entry/2016/03/10/000000)参照
+2014年頃から、サポートは楢原英介、宇野剛史、水野雅昭の3名が担当することが多い。[関連人物](/articles/2016-03-10-000000)参照
 
 ## リリース一覧
 
@@ -58,39 +58,39 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 
 日付 | 分類 | タイトル | レーベル
 -|-|-|-
-2013-09-25 | Digital Sg | [光の粒子 埃の中で (Departures)](http://monden-info.hatenablog.com/entry/2013/10/02/000000) | I WILL MUSIC
-2013-10-02 | Al | [White White White](http://monden-info.hatenablog.com/entry/2013/10/02/000000) | I WILL MUSIC / BounDEE by SSNW
-2013-11-29 | Live Al | [A Whole New World -LIVE at hoku to pia _Sep 28, 2013-](http://monden-info.hatenablog.com/entry/2013/11/29/000000) | I WILL MUSIC
-2015-04-01 | Mini-Al | [A Place, Dark & Dark -観た事のないものを好きなだけ- (通称: 春盤)](http://monden-info.hatenablog.com/entry/2015/04/01/000000) | I WILL MUSIC
-2015-07-01 | Mini-Al | [A Place, Dark & Dark -ダイヤモンドは傷つかない- (通称: 夏盤)](http://monden-info.hatenablog.com/entry/2015/07/01/000000) | I WILL MUSIC
-2015-09-26 | Live DVD | [A Place, Dark & Dark -prologue- LIVE at Kenmin kyosai Mirai Hall_Jan 31, 2015](http://monden-info.hatenablog.com/entry/2015/09/26/000002) | セルフリリース
-2015-10-21 | Mini-Al | [A Place, Dark & Dark -性器を無くしたアンドロイド- (通称: 秋盤)](http://monden-info.hatenablog.com/entry/2015/10/21/000000) | I WILL MUSIC
-2016-02-17 | Mini-Al | [A Place, Dark & Dark -永遠の終わりまでYESを- (通称: 冬盤)](http://monden-info.hatenablog.com/entry/2016/02/17/000000) | I WILL MUSIC
-2016-04-17 | Live DVD | [festival M.O.N. -勝利の美学- 2015.10.24 at LIQUIDROOM ebisu](http://monden-info.hatenablog.com/entry/2016/04/17/000001) | セルフリリース
+2013-09-25 | Digital Sg | [光の粒子 埃の中で (Departures)](/articles/2013-10-02-000000) | I WILL MUSIC
+2013-10-02 | Al | [White White White](/articles/2013-10-02-000000) | I WILL MUSIC / BounDEE by SSNW
+2013-11-29 | Live Al | [A Whole New World -LIVE at hoku to pia _Sep 28, 2013-](/articles/2013-11-29-000000) | I WILL MUSIC
+2015-04-01 | Mini-Al | [A Place, Dark & Dark -観た事のないものを好きなだけ- (通称: 春盤)](/articles/2015-04-01-000000) | I WILL MUSIC
+2015-07-01 | Mini-Al | [A Place, Dark & Dark -ダイヤモンドは傷つかない- (通称: 夏盤)](/articles/2015-07-01-000000) | I WILL MUSIC
+2015-09-26 | Live DVD | [A Place, Dark & Dark -prologue- LIVE at Kenmin kyosai Mirai Hall_Jan 31, 2015](/articles/2015-09-26-000002) | セルフリリース
+2015-10-21 | Mini-Al | [A Place, Dark & Dark -性器を無くしたアンドロイド- (通称: 秋盤)](/articles/2015-10-21-000000) | I WILL MUSIC
+2016-02-17 | Mini-Al | [A Place, Dark & Dark -永遠の終わりまでYESを- (通称: 冬盤)](/articles/2016-02-17-000000) | I WILL MUSIC
+2016-04-17 | Live DVD | [festival M.O.N. -勝利の美学- 2015.10.24 at LIQUIDROOM ebisu](/articles/2016-04-17-000001) | セルフリリース
 2018-03-23 | Digital Sg | イプシロンは泣いてたよ (A Boy In The Avenge) | Lantis (LZC-1339)
-2018-11-07 | Digital Sg | [瓦礫のオルフェオ (Ombra mai fù)](/entry/2019/01/09/000000) | 
-2018-12-05 | Digital Sg | [MoYuRu](/entry/2019/01/09/000000) | 
-2019-01-09 | Digital Mini-Al | [Pocketful of stardust](/entry/2019/01/09/000000) | 
+2018-11-07 | Digital Sg | [瓦礫のオルフェオ (Ombra mai fù)](/articles/2019-01-09-000000) | 
+2018-12-05 | Digital Sg | [MoYuRu](/articles/2019-01-09-000000) | 
+2019-01-09 | Digital Mini-Al | [Pocketful of stardust](/articles/2019-01-09-000000) | 
 
 #### デモ/CD-R
 
 日付 | タイトル | 備考
 -|-|-
-2013-10-02 | [The Lunch2 / The Night2](http://monden-info.hatenablog.com/entry/2013/10/02/000000_1) | 「White White White」購入者特典
-2015-01-31 | [Souvenir from Dark & Dark](http://monden-info.hatenablog.com/entry/2015/01/31/000000) | 「A Place, Dark & Dark -prologue-」会場限定CD-R
+2013-10-02 | [The Lunch2 / The Night2](/articles/2013-10-02-000000_1) | 「White White White」購入者特典
+2015-01-31 | [Souvenir from Dark & Dark](/articles/2015-01-31-000000) | 「A Place, Dark & Dark -prologue-」会場限定CD-R
 
 ### 参加コンピレーション
 
 日付 | タイトル | 収録曲
  | | 
 2015-02-25 | SD√SELDOM vol.3 (新星堂) | 08. 唱えよ、春 静か (XIII) (([BIGMAMA、the band apart、Poet-type.Mら豪華コンピ『SD√SELDOM』リリース決定](http://www.nexus-web.net/article/ss-62/)))
-2015-09-26 | [3 Way Spirit festival M.O.N -美学の勝利-](http://monden-info.hatenablog.com/entry/2015/09/26/000000_1) | 03. Fructose (未発表DEMO音源)
+2015-09-26 | [3 Way Spirit festival M.O.N -美学の勝利-](/articles/2015-09-26-000000_1) | 03. Fructose (未発表DEMO音源)
 
 ## 「I Will Say Good Bye」について
 
 * 2013年末、水野と門田のユニット「I Will Say Good Bye」として活動を開始。ライブを計3回行ったが (([Masaaki mizuno - pastlive](http://masaaki-mizuno.com/flash/pastlive)))、その後門田がPoet-type.Mとしてソロ活動を開始以来、活動していない。楽曲が重複していること、Poet-type.Mにも編曲などで水野が深く関わっていることから、「I Will Say Good Bye」が改名したプロジェクトが「Poet-type.M」だろう。
-* [初ライブ](http://monden-info.hatenablog.com/entry/2012/11/21/000000)のMCで、「I Will Say Good Bye」という名前は水野が気に入っておらず、すぐに改名する可能性があると話していた。
-* 後に、同名のサブタイトルを付けられた楽曲が「[White White White](http://monden-info.hatenablog.com/entry/2013/10/02/000000)」に収録される。
+* [初ライブ](/articles/2012-11-21-000000)のMCで、「I Will Say Good Bye」という名前は水野が気に入っておらず、すぐに改名する可能性があると話していた。
+* 後に、同名のサブタイトルを付けられた楽曲が「[White White White](/articles/2013-10-02-000000)」に収録される。
 * Bill Evansの[同名のアルバム](http://www.amazon.co.jp/dp/B000000YYF)が存在する。
 
 ## その他

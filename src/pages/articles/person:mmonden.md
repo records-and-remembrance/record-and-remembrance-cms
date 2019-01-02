@@ -17,29 +17,29 @@ tags:
   * Soundcloud: [Masaaki Monden](https://soundcloud.com/masaaki-monden)
   * Tumblr: [Poet-type.Masaaki Monden](http://masaakimonden.tumblr.com)
   * Facebookアカウントあり
-* [使用機材](http://monden-info.hatenablog.com/entry/equip%3Amonden)
-* [関連人物](http://monden-info.hatenablog.com/entry/2016/03/10/000000)
-* [影響を受けたもの](http://monden-info.hatenablog.com/entry/2016/03/15/000000)
+* [使用機材](/articles/equip%3Amonden)
+* [関連人物](/articles/2016-03-10-000000)
+* [影響を受けたもの](/articles/2016-03-15-000000)
 
 ## 参加バンド/名義
 
 * (バンド名不明) (1992/12(中学1年)頃)<br>
   Ba.<br>
   「J-Popのヒット曲をコピー」するバンド(JUNGLE LIFE 129)
-* [sweet girls](http://monden-info.hatenablog.com/entry/band:sweetgirls) (1995~1998)<br>
+* [sweet girls](/articles/band:sweetgirls) (1995~1998)<br>
   Vo.?/Ba.?
 * (バンド名不明) (1998(高校3年))<br>
   Ba.<br>
   その他のメンバー: 韮沢(Vo.), 内田(Gt.), 伊藤(Dr.) + 高校の友人 ((韮沢の初バンド。1度ライブをするためだけに組まれたらしい(JUNGLE☆LIFE 109号) ))
-* [サンチェスター・ユナイテッド](http://monden-info.hatenablog.com/entry/band:sunchester) (1998~1999?)<br>
+* [サンチェスター・ユナイテッド](/articles/band:sunchester) (1998~1999?)<br>
   Vo./Gt.
-* [BURGER NUDS](http://monden-info.hatenablog.com/entry/band:burger) (1999~2004, 2014~)<br>
+* [BURGER NUDS](/articles/band:burger) (1999~2004, 2014~)<br>
   Vo./Gt.
-* [Good Dog Happy Men](http://monden-info.hatenablog.com/entry/band:GDHM) (2004~2010)<br>
+* [Good Dog Happy Men](/articles/band:GDHM) (2004~2010)<br>
   Vo./Gt./Ba./Synth.
-* [ソロ名義](http://monden-info.hatenablog.com/entry/band:solo) (with CalmCalm / His Band) (2010~2012)<br>
+* [ソロ名義](/articles/band:solo) (with CalmCalm / His Band) (2010~2012)<br>
   Vo./Gt./Ba./Perc./Synth.
-* [Poet-type.M](http://monden-info.hatenablog.com/entry/band:PtM) (I Will Say Goodbye) (2013~現在)<br>
+* [Poet-type.M](/articles/band:PtM) (I Will Say Goodbye) (2013~現在)<br>
   Vo./Gt./Ba./Perc./Synth./Prog.
 
 ## サポート・楽曲提供等

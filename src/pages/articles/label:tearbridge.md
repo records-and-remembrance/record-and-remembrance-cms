@@ -16,7 +16,7 @@ tags:
   * [GDHMの紹介ページ](http://web.archive.org/web/20051123120112/http://www.tearbridge.com/artist/good.htm) (Cache)
   * [wikipedia:tearbridge production]
 * 所属期間: 2005年6月～2010年末?
-* tearbridgeでのリリース一覧: [tearbridge productionタグ](http://monden-info.hatenablog.com/archive/category/tearbridge%20production) 
+* tearbridgeでのリリース一覧: [tearbridge productionタグ](/archive/category/tearbridge%20production) 
 
 ## GDHMとの関係
 

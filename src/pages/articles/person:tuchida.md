@@ -32,9 +32,9 @@ tags:
   Dr./Cho./etc.
 * Poet-type.M (2013~サポート)<br>
   Dr./Cho./etc.
-* 山田タマル (タマル) (ライブサポート？) (([２２日＠spuma : 木村華子の豆つづり](http://hanatico.exblog.jp/3154258/)に、山田のサポートをしていた旨の記載があるが、詳細不明。))<br>
+* 山田タマル (タマル) (ライブサポート？) [^1]<br>
   Dr.
-* 木村華子と内田武瑠 (2006~) (([２２日＠spuma : 木村華子の豆つづり](http://hanatico.exblog.jp/3154258/)より、2006年8月22日のライブよりサポート参加していることが分かる。[他のブログ記事](http://www.exblog.jp/search/?blogid=1020057456&t=0&q=%E5%86%85%E7%94%B0)にも何度か登場。))<br>
+* 木村華子と内田武瑠 (2006~) [^2]<br>
   Dr.
 * [ショピン](http://www.chopiiin.com/) (2009~サポート, 2011~正式加入)<br>
   Dr./Perc./etc.
@@ -50,6 +50,12 @@ tags:
 ## その他
 
 * 高校1年生でsweet girlsを始めるにあたり、初めて楽器に触れる。
-* 「グミと給水塔と広島カープと中学生みたいな話が好き(([ショピン ::: PROFILE](http://www.chopiiin.com/profile), [Twitter: @tontenkankan](https://twitter.com/tontenkankan)))」とプロフィールに書くとおり、SNSサービス上ではこれらに対して言及することが多い。
+* 「グミと給水塔と広島カープと中学生みたいな話が好き[^3]」とプロフィールに書くとおり、SNSサービス上ではこれらに対して言及することが多い。
 * 「80枚」という門田と二人のバンドでライブに出演したことがある。
 
+
+[^1]: [２２日＠spuma : 木村華子の豆つづり](http://hanatico.exblog.jp/3154258/)に、山田のサポートをしていた旨の記載があるが、詳細不明。
+
+[^2]: [２２日＠spuma : 木村華子の豆つづり](http://hanatico.exblog.jp/3154258/)より、2006年8月22日のライブよりサポート参加していることが分かる。[他のブログ記事](http://www.exblog.jp/search/?blogid=1020057456&t=0&q=%E5%86%85%E7%94%B0)にも何度か登場。
+
+[^3]: [ショピン ::: PROFILE](http://www.chopiiin.com/profile), [Twitter: @tontenkankan](https://twitter.com/tontenkankan)

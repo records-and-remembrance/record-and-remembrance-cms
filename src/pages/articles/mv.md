@@ -149,7 +149,7 @@ tags:
 
 <div class="youtube"><iframe src="https://www.youtube.com/embed/D1a_WFSx704?feature=oembed" width="730" height="411" frameborder="0" allowfullscreen=""></iframe></div>
 
-監督：勝部誠 (([株式会社 COW Films - PVお手伝いしました。 | Facebook](https://www.facebook.com/permalink.php?id=259071774196193&amp;story_fbid=648498508586849)))
+監督：勝部誠 [^1]
 
 ### 氷の皿 (Ave Maria)
 
@@ -160,3 +160,5 @@ tags:
 ---
 
 出典: [Good Dog Happy Men - Wikipedia](https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men)
+
+[^1]: [株式会社 COW Films - PVお手伝いしました。 | Facebook](https://www.facebook.com/permalink.php?id=259071774196193&amp;story_fbid=648498508586849)

@@ -59,7 +59,7 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 -|-|-
 2001-04-14 | [TELESCOPE COMPILATION 01 (TELESCOPE-LABEL)](/articles/2001-04-14-000000) | (詳細ページ参照)
 2003-09-25 | D★SELDOM 其の6 (新星堂) | Disc1-03. 不感症
-2003-10-22 | BIRTH vol.1 (tearbridge records) ((参照: [WORLD COMPILATION ALBUM 「BIRTH vol.1」 - TOWER RECORDS ONLINE](http://tower.jp/item/1041540/WORLD-COMPILATION-ALBUM-%E3%80%8CBIRTH-vol-1%E3%80%8D)。下記のELLEGARDENも参加している)) | 09. Normal Abnormal
+2003-10-22 | BIRTH vol.1 (tearbridge records) [^1] | 09. Normal Abnormal
 2015-09-26 | [3 Way Spirit festival M.O.N -美学の勝利-](/articles/2015-09-26-000000_1) | 01. コミュニティー (新曲未発表DEMO音源)
 
 ## 来歴
@@ -70,7 +70,7 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
    * 丸山は、門田と音楽的共通点が多いことに加え、高校時代のドラムやサンチェスターでのキーボードという担当に納得がいっていなかったため、ベーシストならと承諾した面があるらしい。
 * バンド名
    * 門田・内田によって新宿のウェンディーズにてつけられた。ハンバーガーが好きだった(→BURGER)ことと、3人がマニア気質であったことから(→NERD=NUD)命名された。
-   * NERDという意味合いでNUDという単語が使われているが、これは門田の大学の先生が紹介していた略し方に拠るもので、一般に用いられているものではない(([Urban Dictionary: nud](http://www.urbandictionary.com/define.php?term=nud)を参照する限り、「(まったくの)初心者」「ヌード」「失敗」などの意味しか見られない))。門田自身も以後目にしたことがないらしい。
+   * NERDという意味合いでNUDという単語が使われているが、これは門田の大学の先生が紹介していた略し方に拠るもので、一般に用いられているものではない[^2]。門田自身も以後目にしたことがないらしい。
 * 解散
    * 2003年「symphony」制作時、既に門田と丸山の音楽性や関係性は溝を深めており、メンバーもこれが最後の音源であると薄々感じていた。その後2003年12月リキッドルームの公演を終え、年が明けた1月に解散を決断。奇しくも決断の場所も新宿タイムスであった。([解散発表時のコメント](/articles/2004-04-20-000000))
 * 再結成
@@ -80,7 +80,7 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 ## その他
 
 * ライブ入場時のSEは、[Co-edのGoing, Going, Gone](https://www.youtube.com/results?search_query=Co-ed+Going%2C+Going%2C+Gone)。他に(SE用のCDを忘れたとき?)、[The Rocking Horse WinnerのFrom Miles Away](https://www.youtube.com/results?search_query=The+Rocking+Horse+Winner+-+From+Miles+Away)なども流されたことがあったらしい。
-* ELLEGARDEN「BRING YOUR BOARD」の歌詞カードに、「ELLEGARDEN Thanks To」という形で当時交流のあったバンドが記載されており、この中にBURGER NUDSも挙げられている。また、旧オフィシャルサイトの[LINKページ](http://web.archive.org/web/20050308002208/http://www.dynamord.com:80/elle/link/index.html)にも名前があった。((他に10-FEET、ACIDMAN、dustbox、WRONG SCALE、ストレイテナー等約30バンド程が書かれており、これは当時ライブで共演したバンドからだと思われる。))
+* ELLEGARDEN「BRING YOUR BOARD」の歌詞カードに、「ELLEGARDEN Thanks To」という形で当時交流のあったバンドが記載されており、この中にBURGER NUDSも挙げられている。また、旧オフィシャルサイトの[LINKページ](http://web.archive.org/web/20050308002208/http://www.dynamord.com:80/elle/link/index.html)にも名前があった。[^3]
 * バンド名を「BUGER NUDS」や「バーガーナッツ」などと間違われることがあり、チケットやTV放送でも誤ったまま印刷・放映されることがあった。
 * 使われているフォント:
   * [Old Typewriter](http://www.fonts2u.com/old-typewriter.font?ptext=BURGER+NUDS) (旧ウェブサイトロゴ)
@@ -93,3 +93,9 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 ---
 
 出典: [BURGER NUDS - Wikipedia](https://ja.wikipedia.org/wiki/BURGER_NUDS), BURGUR NUDS 1~3 ライナーノーツ
+
+[^1]: 参照: [WORLD COMPILATION ALBUM 「BIRTH vol.1」 - TOWER RECORDS ONLINE](http://tower.jp/item/1041540/WORLD-COMPILATION-ALBUM-%E3%80%8CBIRTH-vol-1%E3%80%8D)。下記のELLEGARDENも参加している
+
+[^2]: [Urban Dictionary: nud](http://www.urbandictionary.com/define.php?term=nud)を参照する限り、「(まったくの)初心者」「ヌード」「失敗」などの意味しか見られない
+
+[^3]: 他に10-FEET、ACIDMAN、dustbox、WRONG SCALE、ストレイテナー等約30バンド程が書かれており、これは当時ライブで共演したバンドからだと思われる。

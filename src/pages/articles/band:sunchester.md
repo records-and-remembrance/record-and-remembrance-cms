@@ -17,7 +17,7 @@ tags:
 * 門田匡陽 (Vo./Gt.)
 * 内田武瑠 (Vo./Gt.)
 * 丸山潤 (Key.)
-* (高校の友人) (Ba.) ((関西に進学した、ということから城所祐一か？))
+* (高校の友人) (Ba.) [^1]
 * 伊藤大地 (Dr.)
 
 ## レパートリー
@@ -37,3 +37,5 @@ tags:
 ---
 
 出典: BURGUR NUDS 1 ライナーノーツ, [BURGER NUDS - biography ~1999](http://burgernuds.com/04_bio/ext/99.html), [「festival M.O.N-美学の勝利-」 門田匡陽×伊藤大地対談 (1/3) - 音楽ナタリー Power Push](http://natalie.mu/music/pp/poettypem02), Quip 26
+
+[^1]: 関西に進学した、ということから城所祐一か？

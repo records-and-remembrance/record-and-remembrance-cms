@@ -39,7 +39,7 @@ tags:
 2002-03-21 | BN | Release | [自己暗示の日](/articles/2002-03-21-000000) リリース
 2002-03-xx | BN | Member | 門田と内田が大学を卒業。
 2002-05-xx | BN | Band |レコーディング？ (kageokuri)
-2002-05-xx | BN | Band | 「充電期間」として、5月20日～8月2日までライブをしていない。(([http://web.archive.org/web/20020608204634/http://telescope-label.com/cx/htm/wwwboard/messages/1304.html:title]))
+2002-05-xx | BN | Band | 「充電期間」として、5月20日～8月2日までライブをしていない。[^1]
 2002-08-xx | BN | Live | 『B.O.C presents "BAUXiTE page1"』 [仙台](/articles/2002-08-08-000000)・[川崎](/articles/2002-08-21-000000)・[高知](/articles/2002-08-23-000000)で開催
 2002-08-21 | BN | Release | [kageokuri](/articles/2002-08-21-000000_1) 及び [BURGER NUDS (VHS)](/articles/2002-08-21-000000_2) 同日リリース
 2002-11-17 | BN | Live | [初単独ライブ at 新宿LOFT](/articles/2002-11-17-000000)
@@ -49,14 +49,14 @@ tags:
 2003-08-27 | BN | Release | [symphony](/articles/2003-08-27-000000) リリース
 2003-12-07 | BN | Live | [ワンマンライブ at 新宿LIQUIDROOM](/articles/2003-12-07-000000)
 2004-01-xx | BN | Band | 結成と同じく新宿タイムスにて、解散を決断。
-2004-04-20 | BN | Band | ウェブサイト上で解散及びラストライブの開催を発表 (([BURGER NUDS 解散時のコメント](/articles/2004-04-20-000000)(別記事) ))
+2004-04-20 | BN | Band | ウェブサイト上で解散及びラストライブの開催を発表 [^2]
 2004-06-21 | BN | Band | [新宿LOFTでのライブ](/articles/2004-06-21-000000)を以って解散
 2004-xx-xx | GDHM | Band | [Good Dog Happy Men](/articles/band:GDHM) 結成
 2004-07-10 | GDHM | Live | GDHM名義での[初ライブ](/articles/2004-07-10-000000) at 下北沢GARAGE
 2004-07-21 | BN | Release | [BEST](/articles/2004-07-21-000000) リリース
 2004-09-09 | GDHM | Release | [GOOD DOG HAPPY MEN (Demo)](/articles/2004-09-09-000000) 販売開始
 2004-12-12 | GDHM | Live | 初単独ライブ『[Moon light Medicine](/articles/2004-12-12-000000)』 開催
-2004-12-30 | GDHM | Member | オフィシャルサイトにて城所の脱退が発表される(([城所祐一 Good Dog Happy Men脱退時のコメント(別記事) ](/articles/2004-12-30-000000) ))（12月12日のライブが実質的なラストライブとなった）
+2004-12-30 | GDHM | Member | オフィシャルサイトにて城所の脱退が発表される[^3]（12月12日のライブが実質的なラストライブとなった）
 2005-05-07 | GDHM | Live | 単独ライブ『[Moon Light Medicine (4人のゴブリン大いに躍る夜)](/articles/2005-05-07-000000)』開催
 2005-06-01 | GDHM | Release | [4人のゴブリン大いに躍る](/articles/2005-06-01-000000) リリース
 2005-11-19 | GDHM | Live | 単独ライブ『[Moonlight Medicine](/articles/2005-11-19-000000)』 at 下北沢GARAGE 開催
@@ -80,7 +80,7 @@ tags:
 2008-11-xx | GDHM | Live | GDHM企画『[Good Time Rolls Vol.3](/articles/2008-11-16-000000)』 東阪開催
 2009-04-02 | GDHM | Release | [4人のゴブリン大いに躍る +3](/articles/2009-04-02-000000) リリース
 2009-04-xx | GDHM | Live | 「4人のゴブリン大いに躍る +3」リリースツアー 東名阪開催
-2009-04-30 | GDHM | Member | 当日のライブをもって、伊藤・韮沢が脱退。(([韮沢雄希・伊藤大地 Good Dog Happy Men脱退時のコメント](/articles/2009-04-30-000000)(別記事) ))
+2009-04-30 | GDHM | Member | 当日のライブをもって、伊藤・韮沢が脱退。[^4]
 2009-05-27 | GDHM | Release | [陽だまりを越えて](/articles/2009-05-27-000000) リリース
 2009-07～08 | GDHM | Live | 夏フェス (ap bank fes, [RIJF](/articles/2009-08-02-000000)) 出演
 2009-08-05 | GDHM | Release | [Born Again](/articles/2009-08-05-000000) リリース
@@ -88,7 +88,7 @@ tags:
 2010-01-27 | GDHM | Release | [The Light](/articles/2010-01-27-000000) リリース
 2010-02-xx | GDHM | Live | 「The Light」リリースツアー 東名阪開催
 2010-04-25 | ソロ | Live | ワンマンライブ 『[Don't Trust Over 30](/articles/2010-04-25-000000)』 開催
-2010-06-01 | GDHM | Member | ウェブサイト上で内田の脱退が発表される(([内田武瑠 Good Dog Happy Men脱退時のコメント](/articles/2010-06-01-000000)(別記事) ))
+2010-06-01 | GDHM | Member | ウェブサイト上で内田の脱退が発表される[^5]
 2010-06-29 | GDHM | Band | この日のライブを最後にGDHMは活動休止。門田の活動は[ソロ名義](/articles/band:solo)に移行。
 2010-07-25 | ソロ | Live | ワンマンライブ 『[Don't Trust Over 30～episode2～](/articles/2010-07-25-000000)』 開催
 2010-10-23 | ソロ | Live | ワンマンライブ 『[Don't Trust Over 30～episode3～](/articles/2010-10-23-000000)』 開催
@@ -99,7 +99,7 @@ tags:
 2012-01-29 | ソロ | Live | 門田匡陽企画『[CalmCalm Vol.1](/articles/2012-01-29-000000)』開催
 2012-04-14 | ソロ | Live | 門田匡陽 with CalmCalm企画『[CalmCalm vol.2](/articles/2012-04-14-000000)』開催
 2012-05-27 | ソロ | Live | 門田匡陽 with CalmCalm企画『[楽園(utopia)の追放者たち vol.1](/articles/2012-05-27-000000)』開催
-2012-06～  | ソロ | Band | BURGER NUDSとGood Dog Happy Menの曲を再録音するプロジェクトを進めていたが、納得が行かず断念。((参照: [http://mfound.jp/news/2012/05/011747.html:title]、[Poet-type.M | JUNGLE☆LIFE](http://www.jungle.ne.jp/sp_post/poet-type-m/)、[Poet-type.M、コンセプト4部作より秋盤配信開始&門田匡陽の証言と振り返る「美学の歴史」 - OTOTOY](http://ototoy.jp/feature/20151021)、[http://www.cinra.net/interview/2013/11/26/000000.php?page=2:title] ))
+2012-06～  | ソロ | Band | BURGER NUDSとGood Dog Happy Menの曲を再録音するプロジェクトを進めていたが、納得が行かず断念。[^6]
 2012-10-xx | PtM | Member | 体調不良により休養。10月のライブ(及び上記の理由で、12月発売予定だったアルバム)はキャンセル
 2012-11-21 | PtM | Band | (実質PtMである) I Will Say Good Bye名義での[初ライブ](/articles/2012-11-21-000000)
 2013-03-xx | ソロ | Member | このころNYに行っている(カフェでのライブ、WWWの写真撮影)
@@ -144,3 +144,15 @@ tags:
 2018-05-12 | BN | Live | BN企画『[Pure vol.3 at 新代田FEVER](/articles/2018-05-12-000000)』開催
 2018-02-xx | PtM | Band | レコーディング
 2018-03-23 | PtM | Release | イプシロンは泣いてたよ (A Boy In The Avenge) リリース
+
+[^1]: [http://web.archive.org/web/20020608204634/http://telescope-label.com/cx/htm/wwwboard/messages/1304.html:title]
+
+[^2]: [BURGER NUDS 解散時のコメント](/articles/2004-04-20-000000)(別記事) 
+
+[^3]: [城所祐一 Good Dog Happy Men脱退時のコメント(別記事) ](/articles/2004-12-30-000000) 
+
+[^4]: [韮沢雄希・伊藤大地 Good Dog Happy Men脱退時のコメント](/articles/2009-04-30-000000)(別記事) 
+
+[^5]: [内田武瑠 Good Dog Happy Men脱退時のコメント](/articles/2010-06-01-000000)(別記事) 
+
+[^6]: 参照: [http://mfound.jp/news/2012/05/011747.html:title]、[Poet-type.M | JUNGLE☆LIFE](http://www.jungle.ne.jp/sp_post/poet-type-m/)、[Poet-type.M、コンセプト4部作より秋盤配信開始&門田匡陽の証言と振り返る「美学の歴史」 - OTOTOY](http://ototoy.jp/feature/20151021)、[http://www.cinra.net/interview/2013/11/26/000000.php?page=2:title] 

@@ -11,7 +11,7 @@ tags:
 
 * 読み: ポエト・タイプ・ドット・エム
 * 活動期間: 2013~
-* レーベル: [I WILL MUSIC](http://www.iwill-music.co.jp/) ((ランティス傘下のアーティストマネジメント会社「アイウィル」内にあるインディーズレーベル。現在の所属はPoet-type.Mと[ラックライフ](http://luck-life.com/)のみ。[ランティス #グループ会社 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9#.E3.82.A2.E3.82.A4.E3.82.A6.E3.82.A3.E3.83.AB)を参照))
+* レーベル: [I WILL MUSIC](http://www.iwill-music.co.jp/) [^1]
 * ウェブサイト: http://ptm-net.com/
 * SNSアカウント
   * Twitter: [@Poet_type_M](https://twitter.com/Poet_type_M) (@MMondenOfficialから名称のみ変更)
@@ -83,19 +83,19 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 
 日付 | タイトル | 収録曲
  | | 
-2015-02-25 | SD√SELDOM vol.3 (新星堂) | 08. 唱えよ、春 静か (XIII) (([BIGMAMA、the band apart、Poet-type.Mら豪華コンピ『SD√SELDOM』リリース決定](http://www.nexus-web.net/article/ss-62/)))
+2015-02-25 | SD√SELDOM vol.3 (新星堂) | 08. 唱えよ、春 静か (XIII) [^2]
 2015-09-26 | [3 Way Spirit festival M.O.N -美学の勝利-](/articles/2015-09-26-000000_1) | 03. Fructose (未発表DEMO音源)
 
 ## 「I Will Say Good Bye」について
 
-* 2013年末、水野と門田のユニット「I Will Say Good Bye」として活動を開始。ライブを計3回行ったが (([Masaaki mizuno - pastlive](http://masaaki-mizuno.com/flash/pastlive)))、その後門田がPoet-type.Mとしてソロ活動を開始以来、活動していない。楽曲が重複していること、Poet-type.Mにも編曲などで水野が深く関わっていることから、「I Will Say Good Bye」が改名したプロジェクトが「Poet-type.M」だろう。
+* 2013年末、水野と門田のユニット「I Will Say Good Bye」として活動を開始。ライブを計3回行ったが [^3]、その後門田がPoet-type.Mとしてソロ活動を開始以来、活動していない。楽曲が重複していること、Poet-type.Mにも編曲などで水野が深く関わっていることから、「I Will Say Good Bye」が改名したプロジェクトが「Poet-type.M」だろう。
 * [初ライブ](/articles/2012-11-21-000000)のMCで、「I Will Say Good Bye」という名前は水野が気に入っておらず、すぐに改名する可能性があると話していた。
 * 後に、同名のサブタイトルを付けられた楽曲が「[White White White](/articles/2013-10-02-000000)」に収録される。
 * Bill Evansの[同名のアルバム](http://www.amazon.co.jp/dp/B000000YYF)が存在する。
 
 ## その他
 
-* 「Poet-type.M」という名前は、機械の品番を意識し、「M(onden)型の吟遊詩人」という意味合いでつけられた。(([10年以上の時を経て、導き出した答え—— 門田匡陽のソロプロジェクトPoet-type.M 1stアルバム『White White White』 制作＆音楽への想いを語るインタビュー到着！ - インタビュー＆レポート | ぴあ関西版WEB](http://kansai.pia.co.jp/interview/music/2013-11/poettypem.html))) 活動のコンセプトは「帰る場所のない美しさの翻訳」(([http://ptm-net.com/bio:title]))
+* 「Poet-type.M」という名前は、機械の品番を意識し、「M(onden)型の吟遊詩人」という意味合いでつけられた。[^4]
 * 登場SEは結成後しばらく流されなかったが、「A Place, Dark & Dark -prologue-」開催以降は『Prologue』に朗読を重ねたSEが流されることが多い。
 * CD発売前後のライブやイベントでは、来場者やCD購入者に特典として楽曲のメロディとコードが記載された楽譜が配布されることがある。
 * Dark&Dark -prologue-開催を控え、Youtube及びSoundcloud上にD&Dのデモ音源クロスフェードが公開された。(Preparation for D&D [Vol.1](https://www.youtube.com/watch?v=J_PRkmhgNnw), [Vol.2](https://www.youtube.com/watch?v=4Vn6webgl04), [Vol.3](https://www.youtube.com/watch?v=YEJlKn-Nh4g))
@@ -110,3 +110,11 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 ---
 
 出典: [Good Dog Happy Men - Wikipedia](https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men)
+
+[^1]: ランティス傘下のアーティストマネジメント会社「アイウィル」内にあるインディーズレーベル。現在の所属はPoet-type.Mと[ラックライフ](http://luck-life.com/)のみ。[ランティス #グループ会社 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9#.E3.82.A2.E3.82.A4.E3.82.A6.E3.82.A3.E3.83.AB)を参照
+
+[^2]: [BIGMAMA、the band apart、Poet-type.Mら豪華コンピ『SD√SELDOM』リリース決定](http://www.nexus-web.net/article/ss-62/)
+
+[^3]: [Masaaki mizuno - pastlive](http://masaaki-mizuno.com/flash/pastlive)
+
+[^4]: [10年以上の時を経て、導き出した答え—— 門田匡陽のソロプロジェクトPoet-type.M 1stアルバム『White White White』 制作＆音楽への想いを語るインタビュー到着！ - インタビュー＆レポート | ぴあ関西版WEB](http://kansai.pia.co.jp/interview/music/2013-11/poettypem.html))) 活動のコンセプトは「帰る場所のない美しさの翻訳」(([http://ptm-net.com/bio:title]

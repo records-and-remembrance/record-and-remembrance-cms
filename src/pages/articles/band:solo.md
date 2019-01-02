@@ -17,7 +17,7 @@ tags:
   * with CalmCalm: http://www.mm-calm.com/ [[InternetArchive]](http://wayback.archive.org/web/20120414223739/http://www.mm-calm.com/)<br>
     菅原や河相が参加したコラムやライブ情報など。
 * TwitterID: @MMondenOfficial (アカウントは削除されているが、[ついっぷる](http://p.twipple.jp/user/MMondenOfficial)に写真は残っている。)
-* レーベル: POPTOP (UNDER FLOWER RECORDS (([UNDER FLOWER RECORDS - Wikipedia](https://ja.wikipedia.org/wiki/UNDER_FLOWER_RECORDS))) ) → [I WILL MUSIC](http://www.iwill-music.co.jp/)
+* レーベル: POPTOP (UNDER FLOWER RECORDS [^1] ) → [I WILL MUSIC](http://www.iwill-music.co.jp/)
 * [ライブ一覧](/articles/live%3Asolo)
 
 ## メンバー
@@ -70,14 +70,22 @@ Al=アルバム, Mini-Al=ミニアルバム, Sg=シングル
 
 日付 | タイトル | 収録曲
  | | 
-2011-10-19 | POPTOP / UNDER FLOWER / ZENiTH COMPILATION Vol.1 "WHAT ABOUT US?" (([WHAT ABOUT US? - TOWER RECORDS ONLINE](http://tower.jp/item/2972258/WHAT-ABOUT-US-))) | 15. Hostia
+2011-10-19 | POPTOP / UNDER FLOWER / ZENiTH COMPILATION Vol.1 "WHAT ABOUT US?" [^2] | 15. Hostia
 
 ## その他
 
 * 「門田 匡陽&内田 武瑠」、「門田匡陽 and His Funny Friends」、「猪八戒と沙悟浄 (featuring 門田匡陽)」(門田+菅原+河相)などの名義でライブに出演したこともある。
-* 2012-05-27のライブ後より、門田はサポートメンバーと共にBURGER NUDSとGood Dog Happy Menの曲を再録音するプロジェクトを進めていたが、内容に納得がいかず断念している。((参照: [http://mfound.jp/news/2012/05/011747.html:title]、[Poet-type.M | JUNGLE☆LIFE](http://www.jungle.ne.jp/sp_post/poet-type-m/)、[Poet-type.M、コンセプト4部作より秋盤配信開始&門田匡陽の証言と振り返る「美学の歴史」 - OTOTOY](http://ototoy.jp/feature/20151021)、[http://www.cinra.net/interview/2013/11/26/000000.php?page=2:title] ))
-* 「fructose」が正式リリースされないのは、歌詞の内容に因るらしい。(「コカインはやめた」の部分？)(([http://www.jungle.ne.jp/sp_post/216-poet-type-m/:title] ))
+* 2012-05-27のライブ後より、門田はサポートメンバーと共にBURGER NUDSとGood Dog Happy Menの曲を再録音するプロジェクトを進めていたが、内容に納得がいかず断念している。[^3]
+* 「fructose」が正式リリースされないのは、歌詞の内容に因るらしい。(「コカインはやめた」の部分？)[^4]
 
 ---
 
 出典: [Good Dog Happy Men - Wikipedia](https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men), [[mixi] Poet-type.M (門田匡陽) トピック](http://mixi.jp/view_bbs.pl?id=831913&comm_id=92132&page=all)
+
+[^1]: [UNDER FLOWER RECORDS - Wikipedia](https://ja.wikipedia.org/wiki/UNDER_FLOWER_RECORDS)
+
+[^2]: [WHAT ABOUT US? - TOWER RECORDS ONLINE](http://tower.jp/item/2972258/WHAT-ABOUT-US-)
+
+[^3]: 参照: [http://mfound.jp/news/2012/05/011747.html:title]、[Poet-type.M | JUNGLE☆LIFE](http://www.jungle.ne.jp/sp_post/poet-type-m/)、[Poet-type.M、コンセプト4部作より秋盤配信開始&門田匡陽の証言と振り返る「美学の歴史」 - OTOTOY](http://ototoy.jp/feature/20151021)、[http://www.cinra.net/interview/2013/11/26/000000.php?page=2:title] 
+
+[^4]: [http://www.jungle.ne.jp/sp_post/216-poet-type-m/:title] 

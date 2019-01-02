@@ -74,7 +74,7 @@ tags:
 2001-08-28 | | 横浜CLUB24
 2001-08-31 | | 宇都宮VOGUE
 [2001-09-02](/articles/2001-09-02-000000) | 無印良音 #11 ～LOW NAME レコ発ツアーファイナル～ | 下北沢GARAGE
-2001-10-07 | ロボスコッププレゼンツ vol.11「ハッピーアコターン」 | 新宿JAM | 80枚(内田+門田)で出演 ((さび(from SKYBEAVER:安井信哉)/松本俊郎(from EARL HINES)/東京駅で逢いましょう(from カンパネルラ:津崎真也+barfly:諸星修)/岸野統隆(ex マジックバック)/林サトシ(from チョコレートパフェ)/タイライクヤ/五十嵐隆))
+2001-10-07 | ロボスコッププレゼンツ vol.11「ハッピーアコターン」 | 新宿JAM | 80枚(内田+門田)で出演 [^1]
 [2001-10-16](/articles/2001-10-16-000000) | LOFT presents Get a chance! VOL.4 | 新宿LOFT | <線 レコ発東名阪ツアー>
 2001-10-27 | 大阪と東京 Vol.1 | 心斎橋SUN HALL
 2001-10-28 | | 新栄CLUB ROCK 'N' ROLL
@@ -133,7 +133,7 @@ tags:
 [2002-12-31](/articles/2002-12-31-000000) | CLUB DI:GA GO GO 2003 | 渋谷CLUB QUATTRO
 [2003-02-08](/articles/2003-02-08-000000) | SATURDAY NIGHT R&R SHOW 2003 vol.2 | 新宿LOFT
 2003-02-xx | (門田の体調不良により関西ツアーがキャンセル。その後レコーディングで5月までライブ休止)
-[2003-05-02](/articles/2003-05-02-000000) (([公式サイト](http://burgernuds.jp/biography)では2002年となっているが、誤り)) | TELESCOPE CARNIVAL | 新宿MARZ
+[2003-05-02](/articles/2003-05-02-000000) [^2] | TELESCOPE CARNIVAL | 新宿MARZ
 [2003-05-12](/articles/2003-05-12-000000) | CAMP! | 新宿LOFT
 [2003-06-06](/articles/2003-06-06-000000) | LIVE kanaderu2 | 新宿MARZ
 [2003-06-15](/articles/2003-06-15-000000) | TELESCOPE MEETING | 新宿LOFT
@@ -180,3 +180,7 @@ tags:
 ---
 
 出典: [BURGER NUDS - biography (1)[archive]](http://web.archive.org/web/20021009021302/http://burgernuds.com/04_bio/index.html), [Biography | BURGER NUDS](http://burgernuds.jp/biography), [LIVE | BURGER NUDS](http://burgernuds.jp/live), [UNKNOWN - いままでのライブ [archive]](http://web.archive.org/web/20010305202303/http://shinjuku.cool.ne.jp/burgernuds/live.html)
+
+[^1]: さび(from SKYBEAVER:安井信哉)/松本俊郎(from EARL HINES)/東京駅で逢いましょう(from カンパネルラ:津崎真也+barfly:諸星修)/岸野統隆(ex マジックバック)/林サトシ(from チョコレートパフェ)/タイライクヤ/五十嵐隆
+
+[^2]: [公式サイト](http://burgernuds.jp/biography)では2002年となっているが、誤り
